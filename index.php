@@ -1,5 +1,5 @@
 <?php
-    echo "Ola mundo 456";
+    echo "Olá mundo.";
 
-    echo "ola udemy";
+    echo "Olá Udemy e leitor.";
 ?>
